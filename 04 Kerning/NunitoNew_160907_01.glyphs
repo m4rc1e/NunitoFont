@@ -10,7 +10,7 @@ DisplayStrings = (
 " Fi F/idotless  F\U00ED F/ibreve  F\U00EE F/idblgrave  F\U00EF F/idieresisacute  F/idotaccent  F/idotbelow  F\U00EC F/ihookabove  F/iinvertedbreve  F/imacron  F/iogonek  F/itilde  F\012 Ti T/idotless  T\U00ED T/ibreve  T\U00EE T/idblgrave  T\U00EF T/idieresisacute  T/idotaccent  T/idotbelow  T\U00EC T/ihookabove  T/iinvertedbreve  T/imacron  T/iogonek  T/itilde  T\012 Vi V/idotless  V\U00ED V/ibreve  V\U00EE V/idblgrave  V\U00EF V/idieresisacute  V/idotaccent  V/idotbelow  V\U00EC V/ihookabove  V/iinvertedbreve  V/imacron  V/iogonek  V/itilde  V\012 Wi W/idotless  W\U00ED W/ibreve  W\U00EE W/idblgrave  W\U00EF W/idieresisacute  W/idotaccent  W/idotbelow  W\U00EC W/ihookabove  W/iinvertedbreve  W/imacron  W/iogonek  W/itilde  W W/imacron  W/iogonek  W/itilde  W\012 fi f/idotless  f\U00ED f/ibreve  f\U00EE f/idblgrave  f\U00EF f/idieresisacute  f/idotaccent  f/idotbelow  f\U00EC f/ihookabove  f/iinvertedbreve  f/imacron  f/iogonek  f/itilde  f\012*i*/idotless *\U00ED*/ibreve *\U00EE*/idblgrave *\U00EF*/idieresisacute */idotaccent */idotbelow *\U00EC*/ihookabove */iinvertedbreve */imacron */iogonek */itilde *\012/quoteleft i/quoteleft/idotless/quoteleft \U00ED/quoteleft/ibreve/quoteleft \U00EE/quoteleft/idblgrave/quoteleft \U00EF/quoteleft/idieresisacute/quoteleft/idotaccent/quoteleft/idotbelow/quoteleft \U00EC/quoteleft/ihookabove/quoteleft/iinvertedbreve/quoteleft/imacron/quoteleft/iogonek/quoteleft/itilde/quoteleft \012? i? /idotless ? \U00ED? /ibreve ? \U00EE? /idblgrave ? \U00EF? /idieresisacute ? /idotaccent ? /idotbelow ? \U00EC? /ihookabove ? /iinvertedbreve ? /imacron ? /iogonek ? /itilde ? \012][i][/idotless ][\U00ED][/ibreve ][\U00EE][/idblgrave ][\U00EF][/idieresisacute ][/idotaccent ][/idotbelow ][\U00EC][/ihookabove ][/iinvertedbreve ][/imacron ][/iogonek ][/itilde ][\012\012",
 " Fa F\U00E1 F/abreve  F/abreveacute  F/abrevedotbelow  F/abrevegrave  F/abrevehookabove  F/abrevetilde  F\U00E2 F/acircumflexacute  F/acircumflexdotbelow  F/acircumflexgrave  F/acircumflexhookabove  F/acircumflextilde  F/adblgrave  F\U00E4 F/adotbelow  F\U00E0 F/ahookabove  F/ainvertedbreve  F/amacron  F/aogonek  F\U00E5 F/aringacute  F\U00E3 F\012 Ta T\U00E1 T/abreve  T/abreveacute  T/abrevedotbelow  T/abrevegrave  T/abrevehookabove  T/abrevetilde  T\U00E2 T/acircumflexacute  T/acircumflexdotbelow  T/acircumflexgrave  T/acircumflexhookabove  T/acircumflextilde  T/adblgrave  T\U00E4 T/adotbelow  T\U00E0 T/ahookabove  T/ainvertedbreve  T/amacron  T/aogonek  T\U00E5 T/aringacute  T\U00E3 T\012 Va V\U00E1 V/abreve  V/abreveacute  V/abrevedotbelow  V/abrevegrave  V/abrevehookabove  V/abrevetilde  V\U00E2 V/acircumflexacute  V/acircumflexdotbelow  V/acircumflexgrave  V/acircumflexhookabove  V/acircumflextilde  V/adblgrave  V\U00E4 V/adotbelow  V\U00E0 V/ahookabove  V/ainvertedbreve  V/amacron  V/aogonek  V\U00E5 V/aringacute  V\U00E3 V\012 Wa W\U00E1 W/abreve  W/abreveacute  W/abrevedotbelow  W/abrevegrave  W/abrevehookabove  W/abrevetilde  W\U00E2 W/acircumflexacute  W/acircumflexdotbelow  W/acircumflexgrave  W/acircumflexhookabove  W/acircumflextilde  W/adblgrave  W\U00E4 W/adotbelow  W\U00E0 W/ahookabove  W/ainvertedbreve  W/amacron  W/aogonek  W\U00E5 W/aringacute  W\U00E3 W\012 fa f\U00E1 f/abreve  f/abreveacute  f/abrevedotbelow  f/abrevegrave  f/abrevehookabove  f/abrevetilde  f\U00E2 f/acircumflexacute  f/acircumflexdotbelow  f/acircumflexgrave  f/acircumflexhookabove  f/acircumflextilde  f/adblgrave  f\U00E4 f/adotbelow  f\U00E0 f/ahookabove  f/ainvertedbreve  f/amacron  f/aogonek  f\U00E5 f/aringacute  f\U00E3 f\012\012 Fc F/cacute  F/ccaron  F\U00E7 F/ccedillaacute  F/ccircumflex  F/cdotaccent  Fe F\U00E9 F/ebreve  F/ecaron  F/ecedillabreve  F\U00EA F/ecircumflexacute  F/ecircumflexdotbelow  F/ecircumflexgrave  F/ecircumflexhookabove  F/ecircumflextilde  F/edblgrave  F\U00EB F/edotaccent  F/edotbelow  F\U00E8 F/ehookabove  F/einvertedbreve  F/emacron  F/emacronacute  F/emacrongrave  F/eogonek  F/etilde  F/gbreve  F/gcaron  F/gcircumflex  F/gcommaaccent  F/gdotaccent  F/gmacron  Fo F\U00F3 F/obreve  F\U00F4 F/ocircumflexacute  F/ocircumflexdotbelow  F/ocircumflexgrave  F/ocircumflexhookabove  F/ocircumflextilde  F/odblgrave  F\U00F6 F/odieresismacron  F/odotaccentmacron  F/odotbelow  F\U00F2 F/ohookabove  F/ohorn  F/ohornacute  F/ohorndotbelow  F/ohorngrave  F/ohornhookabove  F/ohorntilde  F/ohungarumlaut  F/oinvertedbreve  F/omacron  F/omacronacute  F/omacrongrave  F/oogonek  F\U00F8 F/oslashacute  F\U00F5 F/otildeacute  F/otildedieresis  F/otildemacron  Fr F/racute  F/rcaron  F/rcommaaccent  F/rdblgrave  F/rdotbelow  F/rinvertedbreve  Fs F/sacute  F/sacutedotaccent  F/scaron  F/scarondotaccent  F/scedilla  F/scircumflex  F/scommaaccent  F/sdotaccent  F/sdotbelow  F/sdotbelowdotaccent  Fu F\U00FA F/ubreve  F\U00FB F/udblgrave  F\U00FC F/udotbelow  F\U00F9 F/uhorn  F/uhornacute  F/uhorndotbelow  F/uhorngrave  F/uhornhookabove  F/uhorntilde  F/uhungarumlaut  F/uinvertedbreve  F/umacron  F/umacrondieresis  F/uogonek  F/uring  F/utilde  F/utildeacute  Fy F\U00FD F/ycircumflex  F/ydieresis  F/ydotaccent  F/ydotbelow  F/ygrave  F/yhookabove  F/ymacron  F/ytilde  F\012 Tc T/cacute  T/ccaron  T\U00E7 T/ccedillaacute  T/ccircumflex  T/cdotaccent  Te T\U00E9 T/ebreve  T/ecaron  T/ecedillabreve  T\U00EA T/ecircumflexacute  T/ecircumflexdotbelow  T/ecircumflexgrave  T/ecircumflexhookabove  T/ecircumflextilde  T/edblgrave  T\U00EB T/edotaccent  T/edotbelow  T\U00E8 T/ehookabove  T/einvertedbreve  T/emacron  T/emacronacute  T/emacrongrave  T/eogonek  T/etilde  T/gbreve  T/gcaron  T/gcircumflex  T/gcommaaccent  T/gdotaccent  T/gmacron  To T\U00F3 T/obreve  T\U00F4 T/ocircumflexacute  T/ocircumflexdotbelow  T/ocircumflexgrave  T/ocircumflexhookabove  T/ocircumflextilde  T/odblgrave  T\U00F6 T/odieresismacron  T/odotaccentmacron  T/odotbelow  T\U00F2 T/ohookabove  T/ohorn  T/ohornacute  T/ohorndotbelow  T/ohorngrave  T/ohornhookabove  T/ohorntilde  T/ohungarumlaut  T/oinvertedbreve  T/omacron  T/omacronacute  T/omacrongrave  T/oogonek  T\U00F8 T/oslashacute  T\U00F5 T/otildeacute  T/otildedieresis  T/otildemacron  Tr T/racute  T/rcaron  T/rcommaaccent  A/quoteleft  /Tbar/rdblgrave  T/rdotbelow  T/rinvertedbreve  Ts T/sacute  T/sacutedotaccent  T/scaron  T/scarondotaccent  T/scedilla  T/scircumflex  T/scommaaccent  T/sdotaccent  T/sdotbelow  T/sdotbelowdotaccent  Tu T\U00FA T/ubreve  T\U00FB T/udblgrave  T\U00FC T/udotbelow  T\U00F9 T/uhorn  T/uhornacute  T/uhorndotbelow  T/uhorngrave  T/uhornhookabove  T/uhorntilde  T/uhungarumlaut  T/uinvertedbreve  T/umacron  T/umacrondieresis  T/uogonek  T/uring  T/utilde  T/utildeacute  Ty T\U00FD T/ycircumflex  T/ydieresis  T/ydotaccent  T/ydotbelow  T/ygrave  T/yhookabove  T/ymacron  T/ytilde  T\012 Vc V/cacute  V/ccaron  V\U00E7 V/ccedillaacute  V/ccircumflex  V/cdotaccent  Ve V\U00E9 V/ebreve  V/ecaron  V/ecedillabreve  V\U00EA V/ecircumflexacute  V/ecircumflexdotbelow  V/ecircumflexgrave  V/ecircumflexhookabove  V/ecircumflextilde  V/edblgrave  V\U00EB V/edotaccent  V/edotbelow  V\U00E8 V/ehookabove  V/einvertedbreve  V/emacron  V/emacronacute  V/emacrongrave  V/eogonek  V/etilde  V/gbreve  V/gcaron  V/gcircumflex  V/gcommaaccent  V/gdotaccent  V/gmacron  Vo V\U00F3 V/obreve  V\U00F4 V/ocircumflexacute  V/ocircumflexdotbelow  V/ocircumflexgrave  V/ocircumflexhookabove  V/ocircumflextilde  V/odblgrave  V\U00F6 V/odieresismacron  V/odotaccentmacron  V/odotbelow  V\U00F2 V/ohookabove  V/ohorn  V/ohornacute  V/ohorndotbelow  V/ohorngrave  V/ohornhookabove  V/ohorntilde  V/ohungarumlaut  V/oinvertedbreve  V/omacron  V/omacronacute  V/omacrongrave  V/oogonek  V\U00F8 V/oslashacute  V\U00F5 V/otildeacute  V/otildedieresis  V/otildemacron  Vr V/racute  V/rcaron  V/rcommaaccent  V/rdblgrave  V/rdotbelow  V/rinvertedbreve  Vs V/sacute  V/sacutedotaccent  V/scaron  V/scarondotaccent  V/scedilla  V/scircumflex  V/scommaaccent  V/sdotaccent  V/sdotbelow  V/sdotbelowdotaccent  Vu V\U00FA V/ubreve  V\U00FB V/udblgrave  V\U00FC V/udotbelow  V\U00F9 V/uhorn  V/uhornacute  V/uhorndotbelow  V/uhorngrave  V/uhornhookabove  V/uhorntilde  V/uhungarumlaut  V/uinvertedbreve  V/umacron  V/umacrondieresis  V/uogonek  V/uring  V/utilde  V/utildeacute  Vy V\U00FD V/ycircumflex  V/ydieresis  V/ydotaccent  V/ydotbelow  V/ygrave  V/yhookabove  V/ymacron  V/ytilde  V\012 Wc W/cacute  W/ccaron  W\U00E7 W/ccedillaacute  W/ccircumflex  W/cdotaccent  We W\U00E9 W/ebreve  W/ecaron  W/ecedillabreve  W\U00EA W/ecircumflexacute  W/ecircumflexdotbelow  W/ecircumflexgrave  W/ecircumflexhookabove  W/ecircumflextilde  W/edblgrave  W\U00EB W/edotaccent  W/edotbelow  W\U00E8 W/ehookabove  W/einvertedbreve  W/emacron  W/emacronacute  W/emacrongrave  W/eogonek  W/etilde  W/gbreve  W/gcaron  W/gcircumflex  W/gcommaaccent  W/gdotaccent  W/gmacron  Wo W\U00F3 W/obreve  W\U00F4 W/ocircumflexacute  W/ocircumflexdotbelow  W/ocircumflexgrave  W/ocircumflexhookabove  W/ocircumflextilde  W/odblgrave  W\U00F6 W/odieresismacron  W/odotaccentmacron  W/odotbelow  W\U00F2 W/ohookabove  W/ohorn  W/ohornacute  W/ohorndotbelow  W/ohorngrave  W/ohornhookabove  W/ohorntilde  W/ohungarumlaut  W/oinvertedbreve  W/omacron  W/omacronacute  W/omacrongrave  W/oogonek  W\U00F8 W/oslashacute  W\U00F5 W/otildeacute  W/otildedieresis  W/otildemacron  Wr W/racute  W/rcaron  W/rcommaaccent  W/rdblgrave  W/rdotbelow  W/rinvertedbreve  Ws W/sacute  W/sacutedotaccent  W/scaron  W/scarondotaccent  W/scedilla  W/scircumflex  W/scommaaccent  W/sdotaccent  W/sdotbelow  W/sdotbelowdotaccent  Wu W\U00FA W/ubreve  W\U00FB W/udblgrave  W\U00FC W/udotbelow  W\U00F9 W/uhorn  W/uhornacute  W/uhorndotbelow  W/uhorngrave  W/uhornhookabove  W/uhorntilde  W/uhungarumlaut  W/uinvertedbreve  W/umacron  W/umacrondieresis  W/uogonek  W/uring  W/utilde  W/utildeacute  Wy W\U00FD W/ycircumflex  W/ydieresis  W/ydotaccent  W/ydotbelow  W/ygrave  W/yhookabove  W/ymacron  W/ytilde  W\012 fc f/cacute  f/ccaron  f\U00E7 f/ccedillaacute  f/ccircumflex  f/cdotaccent  fe f\U00E9 f/ebreve  f/ecaron  f/ecedillabreve  f\U00EA f/ecircumflexacute  f/ecircumflexdotbelow  f/ecircumflexgrave  f/ecircumflexhookabove  f/ecircumflextilde  f/edblgrave  f\U00EB f/edotaccent  f/edotbelow  f\U00E8 f/ehookabove  f/einvertedbreve  f/emacron  f/emacronacute  f/emacrongrave  f/eogonek  f/etilde  f/gbreve  f/gcaron  f/gcircumflex  f/gcommaaccent  f/gdotaccent  f/gmacron  fo f\U00F3 f/obreve  f\U00F4 f/ocircumflexacute  f/ocircumflexdotbelow  f/ocircumflexgrave  f/ocircumflexhookabove  f/ocircumflextilde  f/odblgrave  f\U00F6 f/odieresismacron  f/odotaccentmacron  f/odotbelow  f\U00F2 f/ohookabove  f/ohorn  f/ohornacute  f/ohorndotbelow  f/ohorngrave  f/ohornhookabove  f/ohorntilde  f/ohungarumlaut  f/oinvertedbreve  f/omacron  f/omacronacute  f/omacrongrave  f/oogonek  f\U00F8 f/oslashacute  f\U00F5 f/otildeacute  f/otildedieresis  f/otildemacron  fr f/racute  f/rcaron  f/rcommaaccent  f/rdblgrave  f/rdotbelow  f/rinvertedbreve  fs f/sacute  f/sacutedotaccent  f/scaron  f/scarondotaccent  f/scedilla  f/scircumflex  f/scommaaccent  f/sdotaccent  f/sdotbelow  f/sdotbelowdotaccent  fu f\U00FA f/ubreve  f\U00FB f/udblgrave  f\U00FC f/udotbelow  f\U00F9 f/uhorn  f/uhornacute  f/uhorndotbelow  f/uhorngrave  f/uhornhookabove  f/uhorntilde  f/uhungarumlaut  f/uinvertedbreve  f/umacron  f/umacrondieresis  f/uogonek  f/uring  f/utilde  f/utildeacute  fy f\U00FD f/ycircumflex  f/ydieresis  f/ydotaccent  f/ydotbelow  f/ygrave  f/yhookabove  f/ymacron  f/ytilde  f\012/aogonek j",
 "/aogonek j/aogonek/jdotless/aogonek/jcircumflex \012/eogonek j/eogonek/jdotless/eogonek/jcircumflex \012/iogonek j/iogonek/jdotless/iogonek/jcircumflex \012/aogonek.ss01 j/aogonek.ss01/jdotless/aogonek.ss01/jcircumflex \012f/hbar fh\012\U00EEi \U00EFi i/imacron  \U00EDi\012T/aringacute",
-"i\U00E2/abreve \U00E3\U00E0/tildecomb  /brevecomb"
+"i\U00E2/abreve \U00E3\U00E0/dotaccentcomb/commaturnedabovecomb  /brevecomb  /commaturnedabovecomb"
 );
 classes = (
 {
@@ -272,7 +272,7 @@ position = "{150, 299}";
 position = "{346, -140}";
 },
 {
-position = "{343, 845}";
+position = "{150, 550}";
 }
 );
 id = "E1B555A7-F4E1-459C-9C1A-AE952106EEF9";
@@ -78067,7 +78067,7 @@ unicode = 030C;
 },
 {
 glyphname = brevecomb;
-lastChange = "2016-09-07 11:50:27 +0000";
+lastChange = "2016-09-07 11:52:32 +0000";
 layers = (
 {
 anchors = (
@@ -78178,24 +78178,24 @@ paths = (
 {
 closed = 1;
 nodes = (
-"229 574 OFFCURVE",
-"300 621 OFFCURVE",
-"324 687 CURVE SMOOTH",
-"343 740 OFFCURVE",
-"276 771 OFFCURVE",
-"246 725 CURVE SMOOTH",
-"225 693 OFFCURVE",
-"194 674 OFFCURVE",
-"150 674 CURVE SMOOTH",
-"106 674 OFFCURVE",
-"75 693 OFFCURVE",
-"54 725 CURVE SMOOTH",
-"24 771 OFFCURVE",
-"-43 740 OFFCURVE",
-"-24 687 CURVE SMOOTH",
-"0 621 OFFCURVE",
-"71 574 OFFCURVE",
-"150 574 CURVE SMOOTH"
+"229 572 OFFCURVE",
+"300 619 OFFCURVE",
+"324 685 CURVE SMOOTH",
+"343 738 OFFCURVE",
+"276 769 OFFCURVE",
+"246 723 CURVE SMOOTH",
+"225 691 OFFCURVE",
+"194 672 OFFCURVE",
+"150 672 CURVE SMOOTH",
+"106 672 OFFCURVE",
+"75 691 OFFCURVE",
+"54 723 CURVE SMOOTH",
+"24 769 OFFCURVE",
+"-43 738 OFFCURVE",
+"-24 685 CURVE SMOOTH",
+"0 619 OFFCURVE",
+"71 572 OFFCURVE",
+"150 572 CURVE SMOOTH"
 );
 }
 );
@@ -79131,7 +79131,7 @@ unicode = 030F;
 },
 {
 glyphname = breveinvertedcomb;
-lastChange = "2016-08-29 20:07:16 +0000";
+lastChange = "2016-09-07 11:52:43 +0000";
 layers = (
 {
 anchors = (
@@ -79145,33 +79145,6 @@ position = "{150, 685}";
 }
 );
 background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"86 720 OFFCURVE",
-"28 688 OFFCURVE",
-"2 623 CURVE SMOOTH",
-"-13 586 OFFCURVE",
-"34 566 OFFCURVE",
-"51 602 CURVE SMOOTH",
-"73 649 OFFCURVE",
-"105 670 OFFCURVE",
-"150 670 CURVE SMOOTH",
-"195 670 OFFCURVE",
-"227 649 OFFCURVE",
-"249 602 CURVE SMOOTH",
-"266 566 OFFCURVE",
-"314 586 OFFCURVE",
-"298 623 CURVE SMOOTH",
-"270 688 OFFCURVE",
-"214 720 OFFCURVE",
-"150 720 CURVE SMOOTH"
-);
-}
-);
-};
-layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
 paths = (
 {
 closed = 1;
@@ -79197,6 +79170,33 @@ nodes = (
 );
 }
 );
+};
+layerId = "9E718F8A-2CEA-4931-B05D-987794BD97DA";
+paths = (
+{
+closed = 1;
+nodes = (
+"86 719 OFFCURVE",
+"28 687 OFFCURVE",
+"2 622 CURVE SMOOTH",
+"-13 585 OFFCURVE",
+"33 567 OFFCURVE",
+"50 603 CURVE SMOOTH",
+"72 650 OFFCURVE",
+"105 673 OFFCURVE",
+"150 673 CURVE SMOOTH",
+"195 673 OFFCURVE",
+"228 650 OFFCURVE",
+"250 603 CURVE SMOOTH",
+"267 567 OFFCURVE",
+"314 585 OFFCURVE",
+"298 622 CURVE SMOOTH",
+"270 687 OFFCURVE",
+"214 719 OFFCURVE",
+"150 719 CURVE SMOOTH"
+);
+}
+);
 width = 300;
 },
 {
@@ -79211,33 +79211,6 @@ position = "{150, 685}";
 }
 );
 background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"75 627 OFFCURVE",
-"106 644 OFFCURVE",
-"150 644 CURVE SMOOTH",
-"194 644 OFFCURVE",
-"225 627 OFFCURVE",
-"246 598 CURVE SMOOTH",
-"279 552 OFFCURVE",
-"344 583 OFFCURVE",
-"324 636 CURVE SMOOTH",
-"300 699 OFFCURVE",
-"229 744 OFFCURVE",
-"150 744 CURVE SMOOTH",
-"71 744 OFFCURVE",
-"0 699 OFFCURVE",
-"-24 636 CURVE SMOOTH",
-"-44 583 OFFCURVE",
-"21 552 OFFCURVE",
-"54 598 CURVE SMOOTH"
-);
-}
-);
-};
-layerId = "E1B555A7-F4E1-459C-9C1A-AE952106EEF9";
 paths = (
 {
 closed = 1;
@@ -79260,6 +79233,33 @@ nodes = (
 "300 702 OFFCURVE",
 "229 747 OFFCURVE",
 "150 747 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "E1B555A7-F4E1-459C-9C1A-AE952106EEF9";
+paths = (
+{
+closed = 1;
+nodes = (
+"71 749 OFFCURVE",
+"0 702 OFFCURVE",
+"-24 636 CURVE SMOOTH",
+"-43 583 OFFCURVE",
+"24 552 OFFCURVE",
+"54 598 CURVE SMOOTH",
+"75 630 OFFCURVE",
+"106 649 OFFCURVE",
+"150 649 CURVE SMOOTH",
+"194 649 OFFCURVE",
+"225 630 OFFCURVE",
+"246 598 CURVE SMOOTH",
+"276 552 OFFCURVE",
+"343 583 OFFCURVE",
+"324 636 CURVE SMOOTH",
+"300 702 OFFCURVE",
+"229 749 OFFCURVE",
+"150 749 CURVE SMOOTH"
 );
 }
 );
